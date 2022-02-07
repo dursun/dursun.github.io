@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Hakkında
 permalink: /about/
 ---
 
-Some information about you!
+Bu sayfadaki tüm yazılar:
 
-### More Information
+- Bana aittir.
+- Kişisel görüşlerimi yansıtmaktadır.
+- Teknik konular içermez.
+- Sadece Türkçe dilinde kaleme alınacaktır.
 
-A place to include any other types of information that you'd like to include about yourself.
+### İletişim
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[https://www.linkedin.com/in/dursunturan/](LinkedIn) üzerinden benimle iletişime geçebilirsiniz.
