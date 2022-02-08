@@ -11,6 +11,6 @@ Sayfama veya sizlere musallat olmaması için kabile adı veremiyorum maalesef �
 
 Konu hakkında gelişmeler oldukça sizlerle paylaşacağım.
 
-Detaylı bilgi için burayı da takip edebilirsiniz: https://youtu.be/j0wWQEaNjLc
+Detaylı bilgi için burayı da takip edebilirsiniz: [https://youtu.be/j0wWQEaNjLc](https://youtu.be/j0wWQEaNjLc){:target="_blank"}
 
 Selamlar.
