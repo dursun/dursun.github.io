@@ -5,7 +5,7 @@ title: Framework Nefreti
 
 Yazılımcı kardeşlerim kendilerini zeki addeder. Bu yüzden her bilginin hakikatı kendilerindedir.
 
-Bir framework çıkar, bir sürü sorun çıkıyordur. Sonra başka bir ekip başka bir framework çıkarır ve aslında tüm sorunları o çözüyordur.
+Bir framework çıkar, bir sürü sorun çözüyordur. Sonra başka bir ekip başka bir framework çıkarır ve aslında tüm sorunları o çözüyordur.
 
 Yazılım aslında, `CPU instruction cycle` gibidir:
 

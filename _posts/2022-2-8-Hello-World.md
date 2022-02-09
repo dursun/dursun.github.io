@@ -5,7 +5,7 @@ title: Merhaba Dünya
 
 Eskiden, çok eskiden, internet bu kadar yaygın değilken, "hello world" adetinin doğuş hikayesini öğrenenler bu bilgiden keyif alıyordu. Hatta türlü türlü mitler dolaşıyor, farklı versiyonları millet birbirine aktarıyordu. O yüzden bu yazıda tabii ki "hello world" nasıl çıkmış gibi "sıkıcı" bir hikaye anlatmayacağım, gugıla yazın çıkar. Ama benim duyduğum kadarıyla şöyle çıkmış.
 
-Bir varmış bir yokmuş. Bitlerin bile değer gördüğü, bilgisayarların adeta bir gökdelen misali gökleri deldiği ve odalara sığmadığı dönemlermiş. Şimdi olsa sakallarından dolayı terörist olarak adlandırılacak fakat o zamanlar hacker olarak adlandırılan, asosyal ve kafası zehir gibi çalışan gençler bu odalarda, bu devasa nesneyi incelemekteymiş. Tabii odaya erişim kısıtlı olduğu ve bilgisayar bir jeton ile 10 dakika çalıştığı için, kimi jeton yerlerine delik bozuk para sarkıtmak suretiyle kimisi de makineyi tepükleyerek kendince süre kazanmanın peşindeymiş. Tepük dediysek hafiften tabii, çünkü babası bağı bahçesi satsa o bilgisayarın bir somununu alamaz. Evet; o zamanlar bilgisayarlarda somunlar varmış, hatta somun sever böcekler somun somun somun çalmaya çalışırken takatten düşüp makine içine yapışıp kalırlarmış. Fakat bu başka bir yazının konusu.
+Bir varmış bir yokmuş. Bitlerin bile değer gördüğü, bilgisayarların adeta bir gökdelen misali gökleri deldiği ve odalara sığmadığı dönemlermiş. Şimdi olsa sakallarından dolayı terörist olarak adlandırılacak fakat o zamanlar hacker olarak adlandırılan, asosyal ve kafası zehir gibi çalışan gençler bu odalarda, bu devasa nesneyi incelemekteymiş. Tabii odaya erişim kısıtlı olduğu ve bilgisayar bir jeton ile 10 dakika çalıştığı için, kimi jeton yerlerine delik bozuk para sarkıtmak suretiyle kimisi de makineyi tepükleyerek kendince süre kazanmanın peşindeymiş. Tepük dediysek hafiften tabii, çünkü babası bağı bahçeyi satsa o bilgisayarın bir somununu alamaz. Evet; o zamanlar bilgisayarlarda somunlar varmış, hatta somun sever böcekler somun somun somun çalmaya çalışırken takatten düşüp makine içine yapışıp kalırlarmış. Fakat bu başka bir yazının konusu.
 
 İşte bu zehir çocuklar, o kadar bilgisayar başında kalmışlar ki zaman-mekan algıları şaşmış. Bir zaman sonra öyle bir seviyeye gelmişler ki birbirleriyle de selamı sabahı kesmişler. Aynı bir halıcının ilmek ilmek eserini dokuması gibi, bunlar da bit bit yazılımlarını dokuyormuş. Bazısı o kadar ince iş çıkarmış ki o incelikte kaybolmuş. Bazısının tüm dünyası 1-0 ekseninde kaymış; onlar için artık bir şey ya varmış ya da yokmuş. Bazısı da böyle bit bit uğraşılır mı kardeşim, bu işi ne zaman insanca yapabileceğiz diye isyan ediyormuş. Bazısı da "insanca yapsan ne olacak, bu sefer de insanca, daha insanca olmasını isterler" deyip zaman yolculuğu yapıyormuş.
 
@@ -27,7 +27,7 @@ Yine bilindik hebe hübe sesleri ... Seslendikleri abi bağdaş kurduğu yerden 
 
 - Meeer .. haba. Dün yaaa.
 
-Veletler adeta şok 🤯 Zamanın zehir dimağları öyle bir zaman algısını yitirmiş ki dünden beri o odada olduklarını düşünüyorlarmış. Durumun vehametini anlayan gençler federalleri aramış ve bu olay dilden dile, Holywood'dan Bollywood'a kendine yer bulmuş.
+Veletler adeta şok 🤯 Zamanın zehir dimağları, zaman algısını öyle bir yitirmiş ki, dünden beri o odada olduklarını sanıyorlarmış. Durumun vehametini anlayan gençler federalleri aramış ve bu olay dilden dile, Holywood'dan Bollywood'a kendine yer bulmuş.
 
 Gökten üç elma düşmüş: biri iPhone, biri iPad, birisi de Mac.
 
