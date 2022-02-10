@@ -19,6 +19,6 @@ Bu kadar zırvayı şunun için anlattım: Tartışma programlarında izlediğin
 
 Herkes ekmeği peşinde be kardeşim! Seni güldürüp para alan adamı garipsemedin de seni üzüp para alan adamı mı garipsedin?
 
-"Ya işte kapitalizm" diye düşünüyorsan, buna kapitalizm denilmiyor kardeşim. Bi "kapitalizm", bi de "anarşizm" kelimeleri herhalde manaları dışında en çok kullanılan kelimelerdir. Tekrar edilen kelimeler, anlamlarını yitirdiğinden olsa gerek. Ümit ediyorum ki ben de bu yazımda "samimiyet" kelimesini kullanarak anlamını yitirmesine katkıda bulunmuşumdur: Bir daha aptal yerine konulduğunu düşünmezsin.
+"Ya işte kapitalizm" diye düşünüyorsan, buna kapitalizm denilmiyor kardeşim. Bi "kapitalizm", bi de "anarşizm" kelimeleri herhalde manaları dışında en çok kullanılan kelimelerdir: Tekrar edilen kelimeler, anlamlarını yitirdiğinden olsa gerek. Ümit ediyorum ki ben de bu yazımda "samimiyet" kelimesini kullanarak anlamını yitirmesine katkıda bulunmuşumdur: Bir daha aptal yerine konulduğunu düşünmezsin.
 
 Selamlar.
