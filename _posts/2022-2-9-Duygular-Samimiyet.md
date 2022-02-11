@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duygular - Samimiyet I
+title: Duygular - Samimiyet
 ---
 
 Adam sahnede komedi yapıyor, oyun sergiliyor ve bunun için günlerce çalışıyor. Metin yazılıyor, prova yapılıyor ve oyun sahneleniyor.
