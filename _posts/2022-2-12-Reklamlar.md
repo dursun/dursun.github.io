@@ -13,7 +13,7 @@ Yazının içeriği baştan aşağı yalan yanlış bilgiler ile dolu. Adam Stev
 
 `Blues acı ve hüzün demektir ve en büyük Blues şarkıcıları hep siyahlardır.`
 
-Bu paragrafından sonra ise şu cümlesi geliyor:
+Bu cümlesinden hemen sonra ise şu cümlesi geliyor:
 
 `B.B King, Lonnie Johnson, Robert Johnson, Stevie ray, Vaughan… bunlardan sadece bir kaçıdır.`
 
@@ -31,7 +31,7 @@ Peki bu kardeşimiz ne yapıyor? Hebele hübele yazıyor, yayınlayıp geçiyor.
 
 Sizler de reklamınızı yapın kardeşlerim. Sizlerin içinde az buçuk bir mübareklik varsa, zaten bunları yapamazsınız; bünyeniz kabul etmez. Zaten size onun gibi olun demiyorum. Ama siz de içinizdeki cevherin, verdiğiniz emeğin farkında olun ve en az bu insanlar kadar kendi reklamınızı yapın. Ve de çevrenizde de hep kendiniz gibi düzgün insanlar olsun ki birbirinizden destek alın. Yoksa bu adamlara kalırsınız; ya boyun eğersiniz ya da ruh sağlığınızdan olursunuz.
 
-Son cümlem biraz Nihat Genç gibi oldu. Her ne kadar yaşlandıkça çıldırmaya başlamış olsa da, bir yanım Nihat Genç'in hikayesine üzülür. Kendisi zamanında gereksiz yere nahif davrandığı için sinirlerini çok yıprattı. Keşke şimdiki sert söylemlerinin yarısını gençliğinde yapsaydı da zamanında boş beleş adamların kendisini dertlendirmesine izin vermeseydi.
+Son cümlem biraz Nihat Genç gibi oldu. Her ne kadar yaşlandıkça çıldırmaya başlamış olsa da, bir yanım Nihat Genç'in hikayesine üzülür. Kendisi zamanında gereksiz yere nahif davrandığı için sinirlerini çok yıprattı. Keşke şimdiki sert söylemlerinin yarısını gençliğinde yapsaydı da boş beleş adamların kendisini dertlendirmesine izin vermeseydi.
 
 Yaşlanınca Nihat Genç gibi olmak istemiyorsanız, şimdiden kendinizi savunun. Bu daha etkili bir bitiriş oldu sanki 😃
 
