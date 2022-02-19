@@ -11,4 +11,4 @@ Bu kadar araştırdım madem en azından bir işe yarasın, bugünlük yazımı 
 
 ---
 
-Not: Kodun versiyonu konusunda tam emin değilim. Paylaştığım kod ile yakın zamanlarda başka versiyonlar da olabilir. Meraklısı olursa araştırsın bulsun, benden bu kadar.
+Not: Kodun versiyonu konusunda tam emin değilim. Paylaştığım kod ile yakın zamandaki başka versiyonlar da olabilir. Meraklısı varsa araştırsın bulsun, benden bu kadar.
