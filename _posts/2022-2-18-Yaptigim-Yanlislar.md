@@ -5,7 +5,7 @@ title: Yaptığım Yanlışlar
 
 Bir yazılımcı olarak yaptığım yanlışlardan birine değineceğim: Bir konuyu anlamak için yeterince uğraşmadan ona bok atmak.
 
-Özellikle bazı araçlar ve programlama dillerini insanı uyuz edecek derecede antin kuntin oluyorlar. Bu yazıyı yazmama da sebep olan, Autotools buna bir örnektir.
+Özellikle bazı araçlar ve programlama dilleri, insanı uyuz edecek derecede antin kuntin oluyorlar. Bu yazıyı yazmama da sebep olan Autotools, buna bir örnektir.
 
 İhtiyacımız olan altı üstü bir paket yöneticisi ama elimizde birbirinden çirkin sözdizimine (syntax) sahip dosyalar ve birden çok program mevcut. Aslında Autotools yazılımcıdan ziyade son kullanıcının yazılımı kurmasını kolaylaştırmak için geliştirilmiş bir araç seti fakat kardeşim insan biraz da yazılımcıyı düşünür 😃 Büyük konuşmak istemiyorum, sadece tahmin yapıyorum; herhalde eski zihniyetin ürünü olduğu için tasarım kararları da ona göre alınmıştır. Bi npm bi cargo yanında Autotools nasıl kalıyor, kararı size bırakıyorum. Tabii şimdi C için de janti paket yöneticileri çıkıyor fakat henüz istenen seviyede olduğunu düşünmüyorum.
 
