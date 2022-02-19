@@ -11,8 +11,6 @@ Bir yazılımcı olarak yaptığım yanlışlardan birine değineceğim: Bir kon
 
 Neyse, arada sıkıldıkça bazı eksik olduğumu hissettiğim alanlarda kitap okurum. Bu sayede hem bilgilerimi tazeliyorum hem de bilmediklerimi öğreniyorum. Bugün de 7 çocuklu John Calcote'nin yazdığı **Autotools - A Practitioner's Guide to ...** kitabını okuyordum. Orada şöyle bir paragraf gördüm, hoşuma gitti. Yazarın izni olmadan paylaşıyorum, kusura bakmasın. Yani bunun için de izin almamız gerekmiyordur herhalde:
 
-`
-... You need to take the time to understand the open source software distribution, build, test, and installation philosophies embodied by—in many cases even enforced by—these tools, or you’ll find yourself fighting against the system.
-`
+`... You need to take the time to understand the open source software distribution, build, test, and installation philosophies embodied by—in many cases even enforced by—these tools, or you’ll find yourself fighting against the system.`
 
 Yani diyor ki; kardeşim eğer sen sistemi anlamak için çaba harcamazsan bu sefer de sisteme bok atmak için çaba harcayacaksın. Yapma böyle şeyler kardeeeş diyor. Bence de doğru diyor. İtiraf etmeliyim ki bunu benim de yapmışlığım var. Allah hepimizi böyle yanlışlara düşmekten muhafaza eylesin.
