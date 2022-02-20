@@ -12,4 +12,5 @@ Ne yazık ki bu yönde yönlendirdiğim insanlar da oldu ama büyük ihtimal ben
 ---
 
 Linus Torvalds'ın ilgili çıkışı: [Availability of kdb, 6 Sep 2000](https://lkml.org/lkml/2000/9/6/65){:target="_blank"}
+
 Zaten hatalı olduğunu zaman ispatlamış oluyor zira günümüzde kernel geliştirmede debugger kullanılmaktadır: [Using kgdb, kdb and the kernel debugger internals](https://docs.kernel.org/dev-tools/kgdb.html){:target="_blank"}
