@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oyun Firmaları ve Para
+title: Oyun Firmalarının Para Aşkı
 ---
 
 Günümüz insanına bir firmanın kuruluş amacını sorsam, 100 kişiden 99'u tabii ki **kar** elde etmek diyecektir. Fakat severek kullandığımız çoğu ürünü üreten firmaların başlangıç hikayelerine bakarsanız, bu sorunun cevabı **tutku** olacaktır.
