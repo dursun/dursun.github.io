@@ -13,4 +13,4 @@ Bu sayfadaki tüm yazılar:
 
 ### İletişim
 
-[https://www.linkedin.com/in/dursunturan/](LinkedIn) üzerinden benimle iletişime geçebilirsiniz.
+[LinkedIn](https://www.linkedin.com/in/dursunturan/){:target="_blank"} üzerinden benimle iletişime geçebilirsiniz.
