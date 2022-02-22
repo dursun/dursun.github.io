@@ -21,9 +21,11 @@ Hepsini öldürdüğünde, tanrısın
 
 Söz yazarları David Ellefson ve Dave Mustaine olarak belirtilmiş. Sözlerin fazladan bir açıklamaya ihtiyacı olmadığını düşünüyorum.
 
-Bu üç satırla durum tespiti yapılıyor. Yani idealist bir yaklaşım yok; gerçek ortaya konulmuş. Son satırda ise şair şiirsel anlatımını desteklemiş. Bir röportajında Dave Mustaine son satırın manasını "because no one else would have the power to be able to do all that and get away with that" (Çeviri. herkesi öldürüp çekip gidebilecek güç tanrıdan başka kimsede yoktur) olarak açıklamış.
+Bu üç satırla durum tespiti yapılıyor. Yani idealist bir yaklaşım yok; gerçek ortaya konulmuş. Son satırda ise şair şiirsel anlatımını desteklemiş. Dave Mustaine bir röportajında, son satırın manasını "because no one else would have the power to be able to do all that and get away with that" (Çeviri. herkesi öldürüp çekip gidebilecek güç tanrıdan başka kimsede yoktur) olarak açıklamış.
 
-Bu üç satırı, Kur'an - Maide 32. ayeti ile birlikte yorumlayabiliriz. Burada teolojik bir yaklaşımdan ziyade ifadeye dikkat çekmek istiyorum, bu yüzden Kur'an'dan buraya aktarmayacağım. Bu ayet, çoğumuzun bildiği "bir insanı öldüren tüm insanlığı öldürmüş gibidir" sözünün alıntılandığı ayet. Burada yorumu size bırakıyorum.
+Bu üç satırı, "Kur'an - Maide, 32" ile birlikte yorumlayabiliriz. Burada teolojik bir yaklaşımdan ziyade ifadeye dikkat çekmek istiyorum, bu yüzden ayeti Kur'an'daki haliyle buraya alıntılamayacağım. Bu ayet, çoğumuzun bildiği "bir insanı öldüren tüm insanlığı öldürmüş gibidir" sözünün alıntılandığı ayettir.
+
+-Kasten- Öldürmek her koşulda öldürmek midir, yoksa niteliğe ve niceliğe göre değişir mi? Yorumu size bırakıyorum.
 
 **Not: Yazı burada bitiyor, dedikodu için devam edebilirsiniz.**
 
