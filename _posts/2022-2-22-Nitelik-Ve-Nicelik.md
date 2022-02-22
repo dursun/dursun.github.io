@@ -3,7 +3,7 @@ layout: post
 title: Nitelik ve Nicelik
 ---
 
-Bugünkü yazımın ilhamını, Megadeth'in Countdown to Extinction albümündeki "Captive Honour" şarkısından aldım. Şu satırlara birlikte bakalım:
+Bugünkü yazımın ilhamını, Megadeth'in "Countdown to Extinction" albümündeki "Captive Honour" şarkısından aldım. Şu satırlara birlikte bakalım:
 
 ~~~
 And when you kill a man, you're a murderer
