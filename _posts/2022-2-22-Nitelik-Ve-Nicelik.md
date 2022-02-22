@@ -11,7 +11,7 @@ Kill many, and you're a conqueror
 Kill them all... Ooh-oh you're a god!
 ~~~
 
-Türkçe meali:
+Kendimce çevirisi:
 
 ~~~
 Birini öldürdüğünde, katilsin
