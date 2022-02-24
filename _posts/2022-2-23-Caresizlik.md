@@ -8,5 +8,6 @@ title: Çaresizlik Şarkıları
 - Theatre of Tragedy - And When He Falleth şarkısındaki diyalog
 - Slayer - Disciple şarkısındaki isyanın sebebi
 - Mad Season - Slip Away şarkısındaki 2:50 gibi başlayan ve şarkı sonuna kadar devam eden gitar solosu
+- Erkan Oğur ve Yavuz Çetin - Dünya şarkısının içindeki baskın duygulardan biri
 
-Yorumlarda sizi çaresiz hissettiren şarkıları belirtiniz.
+Tabii hak verirsiniz ki bunlar tamamen öznel fikirlerim. Lütfen siz de yorumlarda sizi çaresiz hissettiren şarkıları belirtiniz.
