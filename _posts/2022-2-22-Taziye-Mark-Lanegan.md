@@ -3,9 +3,9 @@ layout: post
 title: Mark Lanegan
 ---
 
-Bu yazıyı kaleme alırken fonda [Mad Season - Long Gone Day @YouTube](https://www.youtube.com/watch?v=SJKvE3tMIPs){:target="_blank"} çalıyor. En sevdiğim solistlerden biri olan müteveffa Layne Staley ile ne de güzel bir düete imza atmışlardı. Mark Lanegan'ın vefat haberine şuradan erişebilirsiniz: [Mark Lanegan @Twitter](https://twitter.com/marklanegan/status/1496208436874428424?cxt=HHwWkIC-3azpzMMpAAAA){:target="_blank"}.
+Bu yazıyı kaleme alırken fonda [Mad Season - Long Gone Day @YouTube](https://youtu.be/SJKvE3tMIPs){:target="_blank"} çalıyor. En sevdiğim solistlerden biri olan müteveffa Layne Staley ile ne de güzel bir düete imza atmışlardı. Mark Lanegan'ın vefat haberine şuradan erişebilirsiniz: [Mark Lanegan @Twitter](https://twitter.com/marklanegan/status/1496208436874428424?cxt=HHwWkIC-3azpzMMpAAAA){:target="_blank"}.
 
-Bu şarkıyı da dinlemeniz için buraya iliştiriyorum: [Mad Season - Slip Away @YouTube](https://www.youtube.com/watch?v=G8g_7CDwbmI){:target="_blank"}
+Bu şarkıyı da dinlemeniz için buraya iliştiriyorum: [Mad Season - Slip Away @YouTube](https://youtu.be/G8g_7CDwbmI){:target="_blank"}
 
 ~~~
 Born of the water
