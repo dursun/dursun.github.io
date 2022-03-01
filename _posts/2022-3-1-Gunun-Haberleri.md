@@ -11,7 +11,7 @@ Sizlerle güncel konuları ara sıra bazı bazı paylaşayım diyorum. Bugün be
 
 😃😃
 
-Can sıkıntısı nelere kadir değil mi? Aylak bakkallar da öyledir mesela, iş güç olmayınca tartısı ile uğraşır. E bu vekilimiz de hukuk adamı olduğundan, mahkemeler ile uğraşıyor. Allah sağlık, sıhhat, afiyet versin de gerisi önemli değil.
+Can sıkıntısı nelere kadir değil mi? Aylak bakkallar da böyledir mesela; iş güç olmayınca tartısı ile uğraşır. E bu vekilimiz de hukuk adamı olduğundan, mahkemeler ile uğraşıyor. Allah sağlık, sıhhat, afiyet versin de gerisi önemli değil.
 
 (NOT: İsimleri gizlememin nedeni, Türkiye'deki siyasi geyiklerin içine çekilmek istemememdir. Kişilere ve kurumlara çok meraklıysanız kendiniz google'a yazar bulursunuz.)
 
