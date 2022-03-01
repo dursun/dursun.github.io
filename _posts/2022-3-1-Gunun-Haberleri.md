@@ -13,6 +13,8 @@ Sizlerle güncel konuları ara sıra bazı bazı paylaşayım diyorum. Bugün be
 
 Can sıkıntısı nelere kadir değil mi? Aylak bakkallar da böyledir mesela; iş güç olmayınca tartısı ile uğraşır. E bu vekilimiz de hukuk adamı olduğundan, mahkemeler ile uğraşıyor. Allah sağlık, sıhhat, afiyet versin de gerisi önemli değil.
 
+Buna benzer başka bir ipimle kuşağım haberi: [Uluslararası Tekvando Organizasyonu, Putin'in siyah kuşağını iptal etti](http://www.worldtaekwondo.org/wtnews/view.html?nid=138702){:target="_blank"}
+
 (NOT: İsimleri gizlememin nedeni, Türkiye'deki siyasi geyiklerin içine çekilmek istemememdir. Kişilere ve kurumlara çok meraklıysanız kendiniz google'a yazar bulursunuz.)
 
 İkinci haberimiz ise budur:
