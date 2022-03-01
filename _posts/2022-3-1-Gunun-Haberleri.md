@@ -25,7 +25,7 @@ Bir de C11'e de değil, C99'a taşıyalım diyor.
 
 😃😃
 
-Allah'tan bazı akıllı insanlar var da madem taşıyoruz C11'e taşıyalım diyor. O da vaynat yavrum diyor.
+Allah'tan bazı akıllı insanlar var da madem taşıyoruz C11'e taşıyalım diyor. O da "vaynat yavrum" diyor.
 
 Yeni standartların sunduğu nimetlerden faydalanır faydalanmaz; makul sebepleriniz varsa istediğiniz standardı kullanabilirsiniz. Beni güldüren, 2022 yılında Linux kernel mail listesinde bu tür konuların sürekli olarak tartışılmasıdır. Geçenlerde de bir satırda en fazla kaç karakter olmalı konusunu tartışıyorlardı, hatırlamayanlar yazıma [buradan](https://www.dursunturan.com/Framework-Nefreti/){:target="_blank"} erişebilir.
 
