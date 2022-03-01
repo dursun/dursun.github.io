@@ -3,7 +3,7 @@ layout: post
 title: Günün Haberleri
 ---
 
-Sizlerle güncel konuları ara sıra bazı bazı paylaşayım diyorum. Bugün iki adet beni güldüren haber okudum, sizler de okuyup gülün istedim.
+Sizlerle güncel konuları ara sıra bazı bazı paylaşayım diyorum. Bugün beni güldüren iki haber okudum, sizler de okuyup gülün istedim.
 
 İlk haberimiz budur:
 
