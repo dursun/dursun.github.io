@@ -3,9 +3,9 @@ layout: post
 title: Sonuca Göre Geçmişi Değerlendirmek
 ---
 
-`UYARI: Amiyane tabirler içermektedir.`
-
 Olay gerçekleşirken yereceğiniz bir eylemi, olay gerçekleşip başarıya ulaştıktan sonra övmeyi çok seviyorsunuz. Bu yüzden bugün bu konuyu işleyeyim dedim.
+
+`UYARI: Amiyane tabirler içermektedir.`
 
 Acun zıpır bir muhabirdir, gerekirse tembellik etmek için çalıştığı kurumu ve seyirciyi kandırır ama başarılı olduğu için bunlar hep güzel anılardır. O zaman Acun'un müdürü/patronu olsa işten siktir edecek adamlar, Acun'un bu hareketini "Acun abi yeeeaa" diye över.
 
