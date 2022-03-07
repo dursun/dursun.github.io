@@ -1,0 +1,24 @@
+---
+layout: post
+title: Dünya Vatandaşı
+---
+
+2000'li yıllarda Türkiye'de uydu TV'lerin ve internetin yaygınlaşması ile birlikte, insanlar için yurt dışı daha da ulaşılabilir bir hal almaya başlamıştı. O zamanlar, küreselleşme konuşulur ve dünyanın küçük bir köy haline geleceği, sınırların kalkacağı, insanların da "dünya vatandaşı" olacağından bahsedilirdi.
+
+Her ne kadar Avrupa'ya işçi olarak giden göçmenler aracılığıyla "yurt dışında yaşayan Türkler" fikrine yabancı olmasak da, o gidenler hep bir gün dönmek umuduyla gittikleri için onlar "gurbetçi" olarak adlandırılmıştı; yani şimdiki gibi "siktir olup gideceğim aağğbii" deyip gitmemişlerdi. Zaten gidenlerin çoğu, bir gün dönme hayaliyle gittiği için, gittikleri yerin kültürüne uyum sağlayıp, oralı olmaya çalışmadı. Şimdi ise yurt dışına giden büyük bir çoğunluk, ülke sınırlarından çıkar çıkmaz Türkiye'deki kimliğini bir kenara koyup yeni kimliğine bürünüyor. Hatta öyle bir kapıyı çarpıp çekip gidiyorlar ki, yurt dışında Türk görünce kaçan bile vardır.
+
+Zaman değişti, yurt dışı ayağımıza kadar geldi. Dünya, internet ve akıllı telefonlar ile birlikte herkesin cebine girdi. Ev hanımları internet fenomeni oluyor, hayatında yurt dışını bırak şehir dışına bile çıkmamış insanlar yurt dışındaki yaşam hakkında yorum yapıyor. Sosyal medyada sesi çok çıkan haklı oluyor, destek buluyor, reklam yapıyor. Takipçi kasılıyor, "abone ol ve like" butonuna basılması tembihleniyor.
+
+"Dünya vatandaşı" diye bahsedilen prototip, saygın bir kişilikti. Yaşadığı herhangi bir ülkede oranın vatandaşından farklı görülmeyeceği düşünülürdü. Günümüz dünyasında ise bu prototip farklı şekillendi ve tahminler tutmadı.
+
+Günümüzde Türkiye'deki dünya vatandaşlığına aday insanlar, Türkiye'den gitme eylemini "siktir olup gitmek" olarak adlandırıyor. Türkiye server'ından "rage quit" yaparak çıkıp gidenler olduğu gibi aklı başında, hedef odaklı giden insanlarımız da mevcuttur, onları bu sınıflandırmanın dışında tutuyorum. Gidenlerin çoğu dönmemek veya yaşlanınca dönmek üzerine gidiyor fakat acaba gittikleri yer onlara kendi vatandaşları gibi davranıyor mu? Çünkü bu dünya vatandaşlığı teorisinin bir insanlar tarafı bir de devletler tarafı vardı. Şu ana kadar insanlar tarafına değindim ve bunun beklenildiği gibi sonuçlanmadığı; daha çok hareket eden kitleler üzerinde karar kıldığını belirttim. Devletler tarafında durum nedir?
+
+Devletler zamanla açık kapı politikasına döneceğine daha da kapanmaya başladı. Koskoca Birleşik Krallık Avrupa Birliği'nden ayrıldı, gitti. 2000'li yıllarda bunu öngören birinin olacağını sanmıyorum. ABD, Güney Amerika'dan gelemesinler diye duvar ördü. Savaşlar neticesinde göçmen akımları oldu, Türkiye hariç hiçbir ülke kayda değer sayıda göçmen almadı. Bir de üstüne ABD'nin ve Avrupa'nın ırkçılık konusundaki bozuk sicillerini ve özellikle Avrupa'da ırkçı örgütlerin yükselişini eklerseniz, zamanla neler yaşanabileceğini kimse bilmiyor. Her şey ufak bir rüzgarın esmesine bakar; bir bakmışsınız içlerinde yanan ırkçılık ateşi büyümüş ve ortalık yangın yerine dönmüş.
+
+Bir de not düşmek isterim ki; bunlar iyi günler zira özellikle Avrupa ve Kanada yetişmiş eleman sıkıntısından dolayı en azından profesyonellere avantajlar sunarak ülkesine kabul ediyor. Zamanında ABD de insanlara çalışma iznini peynir ekmek gibi dağıtıyordu, fakat artık devir değişti e tabii ABD de değişti. Avrupa ve Kanada işçiye doyunca neler değişecek, göreceğiz.
+
+Kısacası, sınırlar ortadan kalkacak ve kültür emperyalizmi bizim kültürümüzü yok edecek diye dertlenen yaşlılarımız boşuna tasalandı zira tam tersine ülkeler kendi içine kapanmaya başladı. "Kültürümüz yok olmadı mı zaten" diye sorabilirsiniz. Kişinin içinde TikTok'ta abuk sabuk videolar çekme isteği varsa ve imkan olunca bu isteğini dışarı yansıtıyorsa, bence bu kültürel erezyondan ziyade "yer bulunca oynamaya" benzerdir. Her dönem kültürel davranışlar değişkenlik gösterebilir. Şu anda olan değişimi normal karşılıyorum. İletişim çağının verdiği imkanlar ile artık kimin ne olduğu daha açık herkes tarafından görülebildiği için, insanlar bunu kanıksamakta zorlanıyor. Yoksa insanlar hep böyleydi. Müge Anlı'ya çıkınca, TikTok kullanınca falan öyle olmadılar yani.
+
+"Dünya Vatandaşı" seçkin, aklı başında bir tipti; kendisine yazık oldu. Kötü bir gelecek tasavvur edilirken daha da kötüsü oldu. Normalde dünya vatandaşı "gelin tanış olalım, işi kolay kılalım, sevelim sevilelim, dünya kimseye kalmaz" şiarı ile hareket edecekti. Şu anda "siktir olup gidelim de ne olursa olsun, en kötü market videosu çekeriz" kafasıyla hareket ediyor. Devletler de ya "ucuz işçi" ya da "başa bela" olarak görüyor. Tabii aklı başında güzel insanları hep bu anlattıklarımın dışında tutuyorum.
+
+Geleceğin dünya vatandaşlarına selam olsun. Biliyorum çok zor ama lütfen market videosu çekmeyin.
