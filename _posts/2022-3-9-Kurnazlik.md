@@ -3,7 +3,7 @@ layout: post
 title: Kurnazlık
 ---
 
-Üniversiteye ilk gittiğim yıllarda Sony Walkman'imde bol bol "Pentagram - Bir" kasedini dinlerdim. O zamanlar yaşım 17-18, "Ölümlü" şarkısındaki şu söz dikkatimi çekmişti: "Kurnazlık marifet değil; aptalların tesellisi". Kendi kendime "ne vurucu bir tespit beee" dediğimi hatırlıyorum.
+İlk üniversitemin ilk yıllarında, Sony Walkman'imde bol bol "Pentagram - Bir" kasedini dinlerdim. O zamanlar yaşım 17-18, "Ölümlü" şarkısındaki şu söz dikkatimi çekmişti: "Kurnazlık marifet değil; aptalların tesellisi". Kendi kendime "ne vurucu bir tespit beee" dediğimi hatırlıyorum.
 
 Küçükken babamın sanayideki dükkanına bol bol giderdim. Biri babama kazık atmaya çalıştığında, ki hurdacılar ile çalışıyorsanız bu olağan bir durumdur, neden adamın üçkağıtçılığını yüzüne vurmadığını sorardım. "Bırak, o garibanın teki" derdi.
 
