@@ -15,4 +15,4 @@ Ve genelde insanların, özellikle bilgisayarla haşır neşir olanların, gözd
 
 Mümkün mertebe bilginizi paylaşın, en ufak bildiğinizi bile küçük görmeyin. Zira o konuyu başkası bilmiyor olabilir; siz de bilmiyordunuz. İnsan ilişkilerinde tavır da önemli tabii ki; bilgiye herkesin erişebileceğini, yani ortalık malı olduğunu, unutmayın ve bir konuda bilginiz var diye triplere girmeyin. Reklamınızı yapın ve ortak alanlarınız olan insanlar ile tanışın. Yarın bir gün kimin nerede karşınıza çıkacağı belli olmaz.
 
-Son olarak, benim gibi bu konulardaki tecrübesi "adım at boka at" olan birinden akıl almamaya çalışın 😃 Yaşadıkça öğrenmek en etkili yöntem fakat kendinize lütfen acımasız davranmayın.
+Son olarak, benim gibi bu konulardaki tecrübesi "adım at boka bat" olan birinden akıl almamaya çalışın 😃 Yaşadıkça öğrenmek en etkili yöntem fakat kendinize lütfen acımasız davranmayın.
