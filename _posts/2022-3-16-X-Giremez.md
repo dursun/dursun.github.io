@@ -1,0 +1,16 @@
+---
+layout: post
+title: X'ler Giremez
+---
+
+Arada sırada, özellikle Türkiye'deki kafe/restoran tarzı işletmelerin, müşteri seçtiği ile ilgili haberler okuyorum. Amerika'da da bazı dükkanların camında "We reserve the right to refuse service to anyone." (T. Hizmet vermeyi reddetme hakkımız saklıdır) yazdığını görüyorum. Ben de bu konuda sesli düşünmek istediğim için bu yazıyı kaleme alıyorum. Yazacaklarım tamamen kendi görüşümdür, herhangi bir kanuni dayanağı yoktur.
+
+Bence, herhangi bir işletme, açıkça, gözden kaçmayacak bir şekilde, şirket politikası olarak bir müşteri profili belirlediyse her müşteriyi dükkanına kabul etmek zorunda değildir. Bu müşterinin herhangi bir niteliği olabilir: Mavi göz, koca burun, topuklu ayakkabı, 2 metre ve üstü boy vs. Fakat eğer müşteri profiline uymayan bir müşteriyi dükkanına aldıysa, eşek gibi hizmet etmek zorundadır; müşteriyi oturduğu yerden kaldıramaz.
+
+Yani şirketin eğer böyle bir politikası varsa bunu girişte belirtmek zorundadır. Eğer girişte belirtmediyse ve müşteri dükkana kabul edildiyse, müşteriye hizmet etmek zorundadır.
+
+Peki müşterinin içerideki davranışına ilişkin bir kısıtlama getirebilir mi? Bence getirebilir, örneğin şunlar yasak olabilir: Ayakkabı çıkarmak, yüksek sesle konuşmak, geğirmek, diğer masalara laf atmak vs. Fakat bunu da önceden belirtmesi gerekmektedir. Eğer belirtmemişse ve müşteri etrafını rahatsız edecek davranışlarda bulunuyorsa, yani şikayet gelmişse müşteriyi uyarabilir. Müşteri uyarıyı dikkate almaz ve taşkınlık yaparsa müşteriyi kovma hakkına sahiptir fakat kovarken müşteriden yediği içtiği için para talep etmemesi gerekmektedir.
+
+Burada muğlak durum şu oluyor: Bu genel kurallar nasıl bilinebilir ve/veya duyurulabilir? Biliyorsunuz, adab-ı muaşeret adı altında temel görgü kuralları vardır fakat günümüz toplumlarında, eğer az nüfuslu kapalı bir toplumda yaşamıyorsanız, her türlü kültürden insanlarla karşılaşabileceğiniz için bu kurallar çok değişkenlik gösterecektir. Burada "müşteri davranışları ile diğer müşterileri rahatsız ediyor mu" sorusuna yanıt aramak gerekmektedir. Peki, gıcık bir müşteri rahatsız olunmayacak bir davranıştan rahatsız olmuş olamaz mı? Olabilir tabii ki. İşte bu yüzden "şirket politikası" belirtilmesi gerekmektedir ki böyle iki ucu boklu değneği elinize almayın 😃 Açarsınız politikanızda ne yazıyor bakarsanız, rahatsız olan müşterinin rahatsız olduğu davranış orada yazıyorsa kağıdı rahatsızlık çıkaran müşteriye gösterirsiniz, hadi güle güle dersiniz. Eğer yazmıyorsa da, gıcık müşteriye gösterirsiniz, "şirket politikaları böyle" der geçersiniz. Kısacası, boku şirket politikalarına atarsınız. Eğer öyle yapmazsanız sosyal medyada reklam olursunuz. Herkes bir gün sosyal medya lincine uğrayacak, ondan kaçış yok ama yine de ne kadar kaçabilirseniz o kadar iyidir 😃
+
+Yazılımcılar, eğer işinizi bırakıp bir kafe açarsanız siz bu işleri iyi becerirsiniz 😃 Bir abiniz olarak beni ciddiye almanızı tavsiye ederim. Gerçi sizin kafe açacağınız falan yok, anca kafa açarsınız anasını satayım.
