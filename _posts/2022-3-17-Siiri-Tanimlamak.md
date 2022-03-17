@@ -5,12 +5,6 @@ title: Şiiri Tanımlamak
 
 Bir yazının şiir olup olmadığını ne belirler? Basit bir soru gibi görünse de, kesinlikle değildir; ne kadar çok tanımlamaya çalışırsanız o kadar tanım içinde kaybolursunuz.
 
----
-
-NOT: Yazıda örnek vermekten kaçınacağım zira tüm yazılarımda mümkün mertebe düşünsel düzeyde kalabilmek için öyle yapıyorum. Ben fikrimi belirtiyorum, bu sayede sizlerle birlikte siz bu yazıyı okurken düşünmüş oluyorum.
-
----
-
 Şiirde "kafiye", "ritm", "ölçü" olmak zorunda mıdır? Basit bir cümle bile şiir olarak algılanamaz mı? Nitekim çağımızın şiir akımlarında da bu tür şiirler yaygındır.
 
 Kitabi bir şiir tanımı yapmak bence mümkün değildir zira her zaman tanımın kapsamı dışında kalan bir şiir olacaktır. Bence burada şiirin tanımından ziyade şairin tanımına yoğunlaşmak daha doğru olur. Şairden beklentiniz, ettiği söz ile sizde birtakım duyguları harekete geçirmesi ve bunu vurucu bir şekilde, kısa sürede yapmasıdır. Bunu birkaç kelime ile de yapabilir, yüzlerce mısra ile de fakat şiir boyunca hep bir hissiyat oluşturmalıdır.
