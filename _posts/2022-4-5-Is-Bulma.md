@@ -20,3 +20,8 @@ Millete bağımlı olmadan nasıl iş bulabilirsiniz? Bulamazsınız. Bulmak ist
 Yazıyı bitirmeden önce özgeçmiş hazırlama konusuna da değinmek istiyorum. Özgeçmiş hazırlarken dikkat edilecek birçok husus mevcuttur. Bundan dolayı, bu konuya değinmeyeceğim. Özgeçmişinizi hazırlamada size yardımcı olan [Novoresume](https://novoresume.com){:target="_blank"} adında paralı bir web uygulaması mevcuttur. Bedava ve aynı güzellikte bir uygulama mevcut ise lütfen yorumlarda bildiriniz.
 
 Umarım hepinizin başvurduğu işler olumlu döner ve hiçbiriniz uzun süre işsiz kalmazsınız 🙏🏿
+
+Şu iki şaheser de benden sizlere armağan olsun:
+
+- [Gerçek Kesit - Korkunç Emir @YouTube](https://youtu.be/cB_9tAa86WM){:target="_blank"}
+- [Eyüphan - Ekmeği Kazanmak Zor Bu Zamanda @YouTube](https://youtu.be/UgFOFR2MICQ){:target="_blank"}
