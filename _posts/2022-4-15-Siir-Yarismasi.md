@@ -19,4 +19,4 @@ Ya bir de bazı şiirlerde adam neredeyse Cemal Safi'den söz çalmış da hadi 
 
 Kısacası, şiir yarışmasında bile taraf olmak gerekiyorsa ne daha şiirden fayda gelir ne de şairden. İnşallah bu üçüncü ve son Cemal Safi yarışması olur.
 
-Edebiyat Yarışmalarını [bu siteden](https://edebiyatyarismalari.com/){:target="_blank"} takip edebilirsiniz.
+Edebiyat yarışmalarını [bu siteden](https://edebiyatyarismalari.com/){:target="_blank"} takip edebilirsiniz.
