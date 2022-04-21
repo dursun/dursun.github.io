@@ -21,4 +21,4 @@ Müzik dinlerken zaruri bir durum oluşmadığı müddetçe şarkıyı durdurmam
 
 Röportaj yapmak için Müslüm babaya gelirler ve sorarlar "Hakan Taşıyan için arabeskin yeni peygamberi diyorlar, ne diyorsunuz?". Müslüm baba da der ki: "Ben öyle birini gönderdiğimi hatırlamıyorum".
 
-Su Baher'den müzik seven sevmeyen herkese gelsin: Dünya Barışı ✌️ 🕊️ ☮️ Fado özentileri hariç.
+Su Baher'den müzik seven sevmeyen herkese gelsin: Dünya Barışı ✌️ 🕊️ ☮️ Müzik, kardeşliktir 😲
