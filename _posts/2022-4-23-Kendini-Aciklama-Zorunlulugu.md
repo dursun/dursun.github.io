@@ -22,4 +22,4 @@ Birinci maddedeki sebep bana en acımasızı gelir, çünkü kişi kendi kendine
 
 Dördüncü maddedeki ise yavşaktır fakat hangimiz değiliz ki?! 😃
 
-Umarım bir gün gelir ve kimse kendisini açıklamak zorunda kalmaz.
+Umarım bir gün gelir ve kimse kendisini açıklamak zorunda kalmaz. Bu zamana kadar kendinizi açıklamak zorunda kalmayacağınız insanlar ve ortamlarda hayatınızı idame ettirirsiniz inşallah.
