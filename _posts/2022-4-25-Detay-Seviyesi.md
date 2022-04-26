@@ -13,4 +13,4 @@ Eğer bir konuda fazla detaylı düşünürseniz, bu kendi davranışlarınız d
 
 Bazen öyle oluyor ki, kendimi insanlar ile ne konuşacağımı, ne konuştuğumu tekrar tekrar düşünürken buluyorum ve bu durumdan kurtulmam gerektiğine inanıyorum. Çünkü bu detay seviyesi bana zarar veren bir seviye. Yıllar yıllar önce yaşadığım bir olayı bile hatırlayıp, "neden öyle dedim ki" dediğim hatta sanki o olayı tekrar yaşıyormuş gibi hissettiğim oluyor. Eminim o olayları benden başka hatırlayan bile yoktur.
 
-Oyun geliştiriciler bazı teknikler ile işlemciyi daha az yorarak, benzer görüntüyü yaratmaya çalışırlar. Aslında hepimizin de yapmasın gereken budur: Sonuçtan sapmayacak kadar gerçek fakat gerçek kadar kompleks olmayanı gerçekleştirmek.
+Oyun geliştiriciler bazı teknikler ile işlemciyi daha az yorarak, benzer görüntüyü yaratmaya çalışırlar. Aslında hepimizin de yapmasın gereken budur: Sonuçtan sapmayacak kadar gerçek fakat gerçek kadar detaylı olmayanı gerçekleştirmek. Bir nevi illüzyon fakat namuslu olanından.
