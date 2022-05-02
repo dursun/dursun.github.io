@@ -19,4 +19,4 @@ Pasif agresif kişi, düşmanca hisleri besleyip büyütebilir. Yiyip yutamayaca
 
 Her iki tarafa da bu kadar had bildirmek yeterli diye düşünüyorum 😃
 
-Ayrıca cümle içinde, sanki güzel bir şeymiş gibi, artık nevrotik-psikotik rahatsızlıkları kullanmayı bırakın. Hadi hastalar, hastalıklarının farkında olmadıkları için olaya farklı bakabilirler de anasının tostundaki sucuk az olmuş diye ağlayan bebeler bunu yapmasın. Çokça şikayet edip, manasızca konuşmak ve kişilerin onları dinlemelerini istiyorlarsa ekşi sözlük hesabı alsınlar 😎
+Ayrıca cümle içinde, sanki güzel bir şeymiş gibi, artık nevrotik-psikotik rahatsızlıkları kullanmayı bırakın. Hadi hastalar, hastalıklarının farkında olmadıkları için olaya farklı bakabilirler de anasının tostundaki sucuk az olmuş diye ağlayan bebeler bunu yapmasın. Çokça şikayet edip, manasızca konuşmak ve kişilerin onları dinlemelerini istiyorlarsa ekşi yazarı olsunlar 😎
