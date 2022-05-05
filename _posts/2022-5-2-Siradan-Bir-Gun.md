@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Sıradan Bir Gün - Bölüm 1
+title: Sıradan Bir Gün - B. 1
 ---
 
 Şimdi evden çıksam 50 dakikaya işte olurum.
+
+`UYARI: Amiyane tabirler içermektedir.`
 
 Acaba gitmeden önce bi çay-sigara-börek mi yapsam? Böreği al, çay ocağına git ve çay söyleyip böreği lüplet derken zaten yarım saat uçar gider. O zaman işe yetişebilmek için bir de taksiye binmem gerekir ki yarım saatlik bir zevk için bu pek pahalı olur sanki yav?! Neyse, maaşı alayım da kendimi ödüllendirmek için daha geniş bir zamanda çay ocağına gider epey bir vaktimi oraya gömerim. Giyinip hemen çıkayım da bari otobüsü kaçırmayayım.
 
