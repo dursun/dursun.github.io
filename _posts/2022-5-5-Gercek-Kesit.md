@@ -25,4 +25,6 @@ Cesi'yi ve "içmağa" çağıran "kızlar aranıza girebilir miyim" lafının sa
 
 Ekibin en kötü oyuncusu ise replikleri ifade ederken sürekli kaşlarını oynatan genç erkek oyuncudur. Umarım hala oyunculuk yapmıyordur 😃
 
+Sigarasız ve içkisiz geçmeyen Gerçek Kesit draması olmaz, bunu da unutmayın 😃
+
 Bir Gerçek Kesit'te daha buluşmak üzere. Hoşçakalın.
