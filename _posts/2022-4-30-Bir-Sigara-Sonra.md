@@ -7,7 +7,7 @@ Depresyon, hayatınızın değil algınızın değişmesi sonucu oluşur.
 
 Depresyona girmeden bir önceki an ile bir sonraki an arasında dünyada hiçbir şey değişmemektedir; sizin algınız değişmektedir. Diyelim ki paraya çok sıkışıksınız ve bir iş kesin olacak diye bekliyorsunuz. Sonra yanıt geldi ve işin olmayacağını öğrendiniz. Birden çöktünüz yani depresyona girdiniz.
 
-Kendinizi kötülemeye başlarsınız. Dünyayı kötü görmeye başlarsınız. İnsanlara söversiniz. Belki de vazgeçersiniz. Kafanızı kaldırmak bile istemezsiniz. Malumunuz dünyamızda her yerde aynalar var ve size sürekli kim olduğunuz hatırlatılıyor. Halbuki eskiden kendinizi hatırlamak istediğinizde, göle gidip dalgalanan -aynadaki gibi sabit olmayan- yansımanıza bakabilirdiniz veyahut doğaya, denize, ormana, ovaya, gökyüzüne bakıp sonsuzlukta kaybolurdunuz. Kendiniz olmanıza gerek yoktu. Şimdi ise hep bir şeyler olmak zorundasınız çünkü dünya sizi rahat bırakmıyor.
+Kendinizi kötülemeye başlarsınız. Dünyayı kötü görmeye başlarsınız. İnsanlara söversiniz. Belki de vazgeçersiniz. Kafanızı kaldırmak bile istemezsiniz. Malumunuz dünyamızda her yerde aynalar var ve size sürekli kim olduğunuz hatırlatılıyor. Halbuki eskiden doğaya, denize, ormana, ovaya, gökyüzüne bakıp sonsuzlukta kaybolurdunuz. Kendiniz olmanıza gerek yoktu. Şimdi ise hep bir şeyler olmak zorundasınız çünkü dünya sizi rahat bırakmıyor.
 
 Bazı anlar gelir, içinden çıkılmaz bir çukura düştüğünüzü düşünürsünüz. Daha da kötüsü bu çukurdan çıkmaya da çabalamazsınız. Tavsiyeler, güzel sözler ve sizi anlama çabaları sizin için beyhude çabalardır ve bunlar üstüne düşünmezsiniz bile.
 
