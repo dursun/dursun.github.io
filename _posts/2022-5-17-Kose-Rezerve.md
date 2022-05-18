@@ -7,6 +7,7 @@ title: Köşe Rezerve
 
 Bu şiirimi hayatı boyunca kıyıda köşede yaşamayı tercih etmiş fakat hala görünür olmaktan çekinen insanlara ithaf ediyorum.
 
+~~~
 KÖŞE REZERVE
 
 Gölgeler çağında
@@ -44,3 +45,4 @@ Sen hep o anlarda kaldın
 Yalnız mısın, oldu mu isteğin
 Memnunum tanıştığımıza fakat 
 Tanınmadığıma
+~~~
