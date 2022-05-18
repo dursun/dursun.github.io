@@ -9,22 +9,22 @@ Yazılım dünyasının en büyük tutarsızlığı, herkesin kendisinin çok or
 
 Örneğin; isimlendirme konusuna o kadar takılınır ki bazı zamanlar sırf bu yüzden projeye başlanamaz bile. Hele bir de kurum/yazılım/sürüm isimlendirmeleri vardır ki ölesiniz gelir. 
 
-- Ahmet abi hadi müzik oynatıcımıza bir isim bulalım.
-- "Ahmet" desek olmaz mı?
-- Yok abi, bir manası olmalı.
-- O zaman "çalgıcı" diyelim. Kulağa samimi geliyor.
-- Yok "şopar" olsun amk. Abi ascii karakterler olsun ki uluslararası olsun.
-- "Kulak" olsun, hem de kısa bir isim.
-- Abi çok basit ya, hem ne öyle! Kulak ikonu da koyalım tam olsun.
-- Niye olmasın kardeşim, bu müzik uygulaması değil mi?! Müziği götünle mi dinliyorsun. Neyse, peki sence ne olsun?
-- Abi ben buldum! Bence MBMP koyalım.
-- Tövbe tövbe. O ne demek lan?
-- MBMP Best Music Player. ["Recursive Acronym"](https://en.wikipedia.org/wiki/Recursive_acronym){:target="_blank"} ağğbi, çok zekice duruyor.
-- Hahahasiktir ya. Dur ben buldum. Bence SİK koyalım.
-- Abicim sen de hemen küfüre başvuruyorsun, ayıp ama ...
-- Yok kardeşim ne küfürü, ayıp ediyorsun. SİK demek "Sok İsmi Kıçına" demek. Hatta bak senin için "mutually recursive" yaptım, SOK da "Sik Onu Kaçmadan" demek.
-- Tamam ağbi anlaşıldı, ben kaçar.
-- Aynen siktir git. Bak bu olduğu gibi yani "siktir git".
+- Orijinal Adam (O): Sami abi hadi müzik oynatıcımıza bir isim bulalım.
+- Düz Adam Sami (S): "Sami" desek olmaz mı?
+- (O) Yok abi, bir manası olmalı.
+- (S) O zaman "çalgıcı" diyelim. Kulağa samimi geliyor.
+- (O) Yok "şopar" olsun amk. Abi ascii karakterler olsun ki uluslararası olsun.
+- (S) "Kulak" olsun, hem de kısa bir isim.
+- (O) Abi çok basit ya, hem ne öyle! Kulak ikonu da koyalım tam olsun.
+- (S) Niye olmasın kardeşim, bu müzik uygulaması değil mi?! Müziği götünle mi dinliyorsun. Neyse, peki sence ne olsun?
+- (O) Abi ben buldum! Bence MBMP koyalım.
+- (S) Tövbe tövbe. O ne demek lan?
+- (O) MBMP Best Music Player. ["Recursive Acronym"](https://en.wikipedia.org/wiki/Recursive_acronym){:target="_blank"} ağğbi, çok zekice duruyor.
+- (S) Hahahasiktir ya. Dur ben buldum. Bence SİK koyalım.
+- (O) Abicim sen de hemen küfüre başvuruyorsun, ayıp ama ...
+- (S) Yok kardeşim ne küfürü, ayıp ediyorsun. SİK demek "Sok İsmi Kıçına" demek. Hatta bak senin için "mutually recursive" yaptım, SOK da "Sik Onu Kaçmadan" demek.
+- (O) Tamam ağbi anlaşıldı, ben kaçar.
+- (S) Aynen siktir git. Bak bu olduğu gibi yani "siktir git".
 
 Hadi bu GNU'dur, HURD'dur falan bunları anlıyorum zira o dönemler karanlık dönemlerdi, insanların çokça zamanı vardır ve o garip sakallı tipler değer görüyordu. Fakat günümüzde hala böyle şakalar komiklikler peşinde koşan koca koca firmalar var. Zaten bu yazıyı yazmama da onlar sebep oldu.
 
