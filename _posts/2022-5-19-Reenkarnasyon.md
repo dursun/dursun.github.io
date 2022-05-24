@@ -16,4 +16,3 @@ Ama olur da bir şekilde yine gelecek ve kısa sürede ölmeyecek olsam, her şe
 Bazı insanlara bir daha hayata gelme fikri rahatlatıcı gelirken, bana bu çok saçma gelmektedir. Yani bu hayattan nasıl bir keyif aldın ki bir daha gelmek istiyorsun?! 😀 "Bir dahaki hayatımda voleyi vurcam kanka" desen bile, ben bunu anlayamıyorum.
 
 Sizler bir dahaki olası hayatlarınızda ne olmak isterdiniz? Ve o halde, neden bu hayatınızda öyle olmadınız? Yorumlarınızı bekliyorum.
-
