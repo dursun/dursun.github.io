@@ -16,3 +16,5 @@ Bu yazımı tek maç iddaa kuponu hazırlayarak tamamlıyorum:
     Liverpool - Real Madrid 2
 
 İstatistiklere bakarsanız Liverpool alır ama içimden bir ses Madrid alır dedi. E bu yazının başlığı da "iddialı olmak" olduğundan, ben de iddialı oldum 😎 Olur da kupon yapar ve kaybederseniz, beni ilgilendirmez 🥳
+
+Gelecekten Not: Maçı Madrid aldı 😀 Yani tahminim tuttu. Hadi yine iyisiniz 😎

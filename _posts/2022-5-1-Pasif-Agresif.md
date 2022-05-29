@@ -7,9 +7,9 @@ Bu kavram toplum tarafından genel olarak yanlış kullanıldığı gibi, yanlı
 
 Öncelikle bunun bir hastalık olmadığını belirtmeliyim. Zaten hastalık olabilmesi için, kişiye zarar vermesi önemlidir. Fakat bazı insanlar bu tavırla kendilerini ifade edebilmektedirler. Bu tavrın onlara zarar veya yarar getirdiği öznel değerlendirmeler kapsamında kalmaktadır. Zaten bildiğim kadarıyla da DSM'de (Diagnostic and Statistical Manual of Mental Disorders) bir davranış bozukluğu olarak adlandırılmaktan çıkarılmıştı.
 
-Pasif agresif, agresyonunu yani olumsuz tutumunu birebir iletişim kurarak değil de karşı tarafa dolaylı olarak hissettirerek aktarmaya denir. 
+Pasif agresif, agresyonunu yani olumsuz tutumunu birebir iletişim kurarak değil de karşı tarafa dolaylı olarak hissettirerek aktarmaya denir. Agresyon, sinirli ve saldırgan olma durumuna denir. Kişi eğer agresifse, karşı tarafa zarar vermek istiyor demektir. Peki, pasif agresif ne demektir?
 
-Bu kendi götümden uydurduğum tanımdan anlayacağınız üzere düşmanca duygular beslenen karşı tarafın, pasif agresif kişinin tavırlarından bir çıkarım yapması pasif agresif kişi tarafından beklenmektedir.
+Kendi götümden uydurduğum tanımlardan da anlayacağınız üzere düşmanca duygular beslenen karşı tarafın, pasif agresif kişinin tavırlarından bir çıkarım yapması pasif agresif kişi tarafından beklenmektedir. Çünkü kişi sinirini aktif bir saldırganlık göstererek ifade etmekten ziyade, tutum takındığı kişiye veya topluluğa duygusal olarak hissettirmek niyetindedir.
 
 Bu bir tavırdır, davranış bozukluğu değildir. Eğer bu tavır, her durumda aynı şekilde gelişiyor ve beklentiler kişiyi yoruyorsa o zaman bunu davranış bozukluğu olarak nitelendirebiliriz diye düşünüyorum. Tekrar edeyim; bu yazıdaki amacım ders vermek değil kendimce açıklama yapmaktır. Gerçek bilgiye erişmek istiyorsanız psikoloğunuzla görüşebilirsiniz 😃 Bu arada psikolog tek kelimeyken, psikoloğunuz yazarken "ğ" olması bir mucize değil de nedir 😱
 
